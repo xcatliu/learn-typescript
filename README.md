@@ -5,6 +5,7 @@ next: introduction/README.md
 # TypeScript 入门教程
 
 [![Actions Status](https://github.com/xcatliu/typescript-tutorial/workflows/gh-pages/badge.svg)](https://github.com/xcatliu/typescript-tutorial/actions)
+[![Open in Codeanywhere](https://img.shields.io/badge/Open%20in-Codeanywhere-7f3f97)](https://app.codeanywhere.com/#https://github.com/xcatliu/typescript-tutorial/)
 
 从 JavaScript 程序员的角度总结思考，循序渐进的理解 TypeScript。
 
